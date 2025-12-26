@@ -14,3 +14,10 @@ I’m an aspiring software engineer with a strong interest in **Machine Learning
 - Experience building **React & Next.js** frontends for ML systems
 - Collaborative team player with hands-on project experience
 - Continuously learning and experimenting with new technologies
+  
+---
+
+ Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/vivek0310/)
+- Email: rvivek0310@gmail.com
+- GitHub: [@sedhehe](https://github.com/sedhehe)
