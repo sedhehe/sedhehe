@@ -1,4 +1,4 @@
-# Hi 👋, I'm Vivek Rallapally
+# Hello, I'm Vivek Rallapally
 
 **B.Tech in Computer Science (AI & ML)**  
 Hyderabad, India  
